@@ -1,0 +1,14 @@
+Package: foofactors.mds.r
+Title: test package made in class
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Sukriti",
+           family = "Trehan",
+           role = c("aut", "cre"),
+           email = "sukriti1394@gmail.com")
+Description: test package
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat
